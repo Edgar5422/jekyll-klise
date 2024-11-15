@@ -1,16 +1,19 @@
 ---
 layout: post
-title: "Bienvenido"
-categories: journal
-tags: [documentation,sample]
+title: "Algo sobre mi"
+date: 2024-11-05
+categories: [Cultura, documentacion]
+
 ---
 
 
 # Bienvenidos al Blog de Edgar Díaz Martínez 🌐
 #### Estudiante de Administración de Sistemas Informáticos en Red (ASIR)
+
 <figure>
 <img src='/assets/img/cantabria.jpg'>
 </figure>
+
 ---
 
 ## 🎓 Sobre Mí
