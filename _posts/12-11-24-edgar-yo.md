@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Bienvenido a Lagrange de Edgar"
-author: "Edgar Diaz"
+title: "Bienvenido"
 categories: journal
 tags: [documentation,sample]
-
 ---
 
 
